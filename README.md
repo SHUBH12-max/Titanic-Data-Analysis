@@ -75,7 +75,7 @@ Titanic-EDA/
 
 
 
-## 📈 Libraries Used
+## Libraries Used
 
 ```python
 import numpy as np
@@ -105,6 +105,3 @@ import seaborn as sns
 This project demonstrates practical data cleaning, exploratory data analysis, visualization, and statistical analysis using Python's core data science libraries. It showcases the ability to transform raw data into actionable insights and effectively communicate findings through visualizations.
 
 
-##  Author
-
-**Shubham Singh**
